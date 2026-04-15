@@ -1,7 +1,6 @@
 -- Detect overlapping services for staff on the same day, for example when a staff is booked for two services at the same time
 -- This identifies scheduling conflicts in home care delivery
--- For each staff on each day this compares each service with the one just before it using LAG (end_time)  and LAG (service_id), so the reference is just the previous role
-
+-- For each staff on each day this compares each service with the one just before it using LAG (end_time) and LAG (service_id), so the reference is just the previous role
 
 --  Query starts with a temporary table called "ordered_services"
 WITH ordered_services AS (
