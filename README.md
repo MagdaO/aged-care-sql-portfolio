@@ -1,3 +1,10 @@
+## About Me
+
+I am a data and systems professional in the aged care sector, specialising in data quality, reporting, and operational improvement.  
+
+I am currently developing my SQL and analytics capabilities, applying them to real-world scenarios such as home care service delivery, client demographics, and workforce data.
+
+
 # Aged Care SQL Portfolio
 
 ## Overview
